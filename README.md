@@ -11,4 +11,4 @@ TODO's:
 
 ![](https://github.com/AKotov-dev/kodi-inputstream-adaptive/blob/main/ScreenShot1.png)
   
-RPM packages contain add-on for Kodi-19-Matrix (mrx8) and Kodi-20-Nexus (mrx9) needed to watch YouTube and other sources. They were backported from Fedora Rawhide and adapted for Mageia-8 (mrx8) and Mageia-9 (mrx9).
+RPM packages contain add-on for Kodi needed to watch YouTube and other sources. They were backported from Fedora Rawhide and adapted for  Mageia Linux.

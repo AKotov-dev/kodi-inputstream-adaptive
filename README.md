@@ -1,5 +1,5 @@
 # kodi-inputstream-adaptive
-InputStream Adaptive add-on for Kodi (RPM for MgaRemix/Mageia-8/9)
+InputStream Adaptive add-on for Kodi (RPM for MgaRemix/Mageia-8/9/10)
 
 Source: https://github.com/xbmc/inputstream.adaptive
 
